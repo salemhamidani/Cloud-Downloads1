@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7948",
+  "folder": "YouTube__watch_20260521151706_9e2fbb",
+  "base_name": "CCNA_200-301_Lab_02_wD_8VqCYV5g_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/salemhamidani/Cloud-Downloads1/releases/tag/co-releases-v1-7948",
+  "files": [
+    {
+      "name": "CCNA_200-301_Lab_02_wD_8VqCYV5g_1080p.mp4",
+      "url": "https://github.com/salemhamidani/Cloud-Downloads1/releases/download/co-releases-v1-7948/CCNA_200-301_Lab_02_wD_8VqCYV5g_1080p.mp4",
+      "api_url": "https://api.github.com/repos/salemhamidani/Cloud-Downloads1/releases/assets/426249764",
+      "id": 426249764,
+      "size": 26695985,
+      "download_count": 0
+    }
+  ]
+}
